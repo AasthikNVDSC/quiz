@@ -1,0 +1,85 @@
+body
+{
+	background-image:url(https://t4.ftcdn.net/jpg/03/45/88/07/360_F_345880772_zIT2mkdCzTthplO7xqaGGrMspN0jw0ll.jpg)
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background:salmon;
+border-radius: 10px;
+padding: 10px;
+float: none;
+text-align: left;
+}
+.form-control{
+	border-radius: 30%;
+	width: 100;
+	}
+
+h1{
+	color:mediumblue;
+	font-style: italic;
+}	
+
+h2{
+	color:mediumblue;
+	font-style: italic;
+}
+
+h3{
+	color:fuchsia;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+	color:mediumblue;
+}
+#player1_name{
+	color: orangered;
+}
+#player2_name{
+	color: orangered;
+}
+#player1_score{
+	color: springgreen;
+}
+#player2_score{
+	color: springgreen;
+}
+h2{
+	color: teal;
+}
+#send{
+	background-color:darkgreen;
+}
+#player1_name_input{
+	background-color: brown;
+}
+#player2_name_input{
+	background-color: brown;
+}
+#btn{
+	border-color: darkblue;
+	background-color:darkred;
+}
